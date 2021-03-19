@@ -5,7 +5,8 @@ public class weightMars {
 public static void main(String[] args) {
 	
 	Scanner input = new Scanner (System.in);
-
+	
+	System.out.println("DO YOU KNOW YOU ARE LIGHTER IN MARS ?\n ");
 	System.out.println("How much weight is you in earth ?:(kg) ");
 	
 	double weight = input.nextDouble();
